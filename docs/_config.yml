@@ -33,6 +33,7 @@ github_username:  jekyll
 remote_theme: dieghernan/chulapa
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   - chulapa-jekyll
 
 # Exclude from processing.
